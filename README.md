@@ -1,0 +1,1 @@
+First thing to do is to create a new instance of the default something
